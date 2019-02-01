@@ -1,0 +1,2 @@
+# Flee-from-Space-game-
+# This is a game produced and coded with python with the library of pygame zero. The game includes a platform and puzzle based adventure where you as an astronaut in the space station has to solve the problems in order to escape the station as well as save the others in the station. The game takes account enemies and hazards such as toxic floors as well as items that interact with each other to found your way out.  
